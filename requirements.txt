@@ -1,0 +1,6 @@
+Django==1.11.3
+gunicorn==19.7.1
+mysqlclient==1.3.10
+whitenoise==3.3.0
+xdiagnose==3.8.5
+
